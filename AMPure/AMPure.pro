@@ -1243,7 +1243,7 @@ task.Headmode = &quot;1,2,1,1&quot;;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;2&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='2' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1271,7 +1271,7 @@ task.Wellselection = [[1, 12]];' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='2' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1311,7 +1311,7 @@ task.Volume = PRE_ASP;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1379,7 +1379,7 @@ task.Volume = (mixVolume &gt; maxMixVolume)  ? maxMixVolume : mixVolume;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1418,7 +1418,7 @@ task.Volume = beadVolume;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1458,7 +1458,7 @@ task.Volume = beadVolume;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1510,7 +1510,7 @@ task.Wellselection = [[1,1]];' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1538,7 +1538,7 @@ task.Wellselection = [[1, 12]];' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1590,7 +1590,7 @@ task.Headmode = &quot;1,2,1,1&quot;;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;2&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='2' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1617,7 +1617,7 @@ task.Wellselection = [[1, 12]];' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1654,7 +1654,7 @@ task.Volume = PRE_ASP;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1697,7 +1697,7 @@ task.Volume = mixVolume;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1734,7 +1734,7 @@ task.Volume = PRE_ASP;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='1' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1761,7 +1761,7 @@ task.Volume = PRE_ASP;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='2' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1834,7 +1834,7 @@ var mTouchRetract = 5;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1864,7 +1864,7 @@ var mTouchRetract = 5;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1903,7 +1903,7 @@ task.Distancefromwellbottom = 50;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -1963,7 +1963,7 @@ task.Distancefromwellbottom = mAspDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2002,7 +2002,7 @@ task.Distancefromwellbottom = mDispDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2053,7 +2053,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2084,7 +2084,7 @@ if(mDoTipTouch) {
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2157,7 +2157,7 @@ var mTouchRetract = 5;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2187,7 +2187,7 @@ var mTouchRetract = 5;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2226,7 +2226,7 @@ task.Distancefromwellbottom = 50;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2286,7 +2286,7 @@ task.Distancefromwellbottom = mAspDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2325,7 +2325,7 @@ task.Distancefromwellbottom = mDispDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2376,7 +2376,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2407,7 +2407,7 @@ if(mDoTipTouch) {
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2481,7 +2481,7 @@ var mTouchRetract = -7;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2511,7 +2511,7 @@ var mTouchRetract = -7;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2553,7 +2553,7 @@ task.Liquidclass = &quot;j_normal_large_vol&quot;;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2574,7 +2574,7 @@ task.Liquidclass = &quot;j_normal_large_vol&quot;;' />
 						<Parameter Category='' Name='Time for operation in Timed mode' Value='10' />
 						<Parameter Category='' Name='Allow concurrent operation' Value='0' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2625,7 +2625,7 @@ if(mAspDistance !== mDispDistance) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2683,7 +2683,7 @@ if(mAspDistance !== mDispDistance) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2704,7 +2704,7 @@ if(mAspDistance !== mDispDistance) {
 						<Parameter Category='' Name='Time for operation in Timed mode' Value='10' />
 						<Parameter Category='' Name='Allow concurrent operation' Value='0' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2751,7 +2751,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2782,7 +2782,7 @@ if(mDoTipTouch) {
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2855,7 +2855,7 @@ var mTouchRetract = -6;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2885,7 +2885,7 @@ var mTouchRetract = -6;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2927,7 +2927,7 @@ task.Distancefromwellbottom = 50;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -2987,7 +2987,7 @@ task.Distancefromwellbottom = mAspDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3028,7 +3028,7 @@ task.Whichsidestousefortiptouch = &quot;None&quot;;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3079,7 +3079,7 @@ var mTouchRetract = -4;' />
 						<Parameter Category='' Name='Time for operation in Timed mode' Value='10' />
 						<Parameter Category='' Name='Allow concurrent operation' Value='0' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3130,7 +3130,7 @@ if(mAspDistance !== mDispDistance) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3188,7 +3188,7 @@ if(mAspDistance !== mDispDistance) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3209,7 +3209,7 @@ if(mAspDistance !== mDispDistance) {
 						<Parameter Category='' Name='Time for operation in Timed mode' Value='10' />
 						<Parameter Category='' Name='Allow concurrent operation' Value='0' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3256,7 +3256,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3346,7 +3346,7 @@ task.Distancefromwellbottom = 50;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3406,7 +3406,7 @@ task.Distancefromwellbottom = mAspDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3445,7 +3445,7 @@ task.Distancefromwellbottom = mDispDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3499,7 +3499,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3530,7 +3530,7 @@ if(mDoTipTouch) {
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3615,7 +3615,7 @@ var mTouchRetract = 0;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3645,7 +3645,7 @@ var mTouchRetract = 0;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3687,7 +3687,7 @@ task.Distancefromwellbottom = 50;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3747,7 +3747,7 @@ task.Distancefromwellbottom = mAspDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3788,7 +3788,7 @@ task.Whichsidestousefortiptouch = &quot;South/North&quot;;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3842,7 +3842,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3873,7 +3873,7 @@ if(mDoTipTouch) {
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3945,7 +3945,7 @@ var mTouchRetract = 5;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -3975,7 +3975,7 @@ var mTouchRetract = 5;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4015,7 +4015,7 @@ task.Distancefromwellbottom = mAspDistance;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4058,7 +4058,7 @@ if(mDoTipTouch) {
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4089,7 +4089,7 @@ if(mDoTipTouch) {
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4151,7 +4151,7 @@ bindMixVolume = (bindMixVolume &gt; MAX_MIX_VOLUME) ? MAX_MIX_VOLUME : bindMixVo
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4177,7 +4177,7 @@ bindMixVolume = (bindMixVolume &gt; MAX_MIX_VOLUME) ? MAX_MIX_VOLUME : bindMixVo
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='6' RowCount='8' SubsetConfig='2' SubsetType='1' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4215,7 +4215,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4251,7 +4251,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4290,7 +4290,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4326,7 +4326,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4353,7 +4353,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4404,7 +4404,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 	&lt;PipetteHeadMode Channels=&apos;0&apos; ColumnCount=&apos;12&apos; RowCount=&apos;8&apos; SubsetConfig=&apos;0&apos; SubsetType=&apos;0&apos; TipType=&apos;0&apos; /&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4430,7 +4430,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4478,7 +4478,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4535,7 +4535,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4571,7 +4571,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4617,7 +4617,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4686,7 +4686,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4722,7 +4722,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4765,7 +4765,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 &lt;/Velocity11&gt;' />
 						<Parameter Category='Properties' Name='Pipette technique' Value='' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
@@ -4799,7 +4799,7 @@ task.Preaspiratevolume = PRE_ASP_LARGE;' />
 	&lt;/WellSelection&gt;
 &lt;/Velocity11&gt;' />
 					</Parameters>
-					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 µL Series III' >
+					<PipetteHead AssayMap='0' Disposable='1' HasTips='1' MaxRange='251' MinRange='-41' Name='96LT, 200 ç„¡ Series III' >
 						<PipetteHeadMode Channels='0' ColumnCount='12' RowCount='8' SubsetConfig='0' SubsetType='0' TipType='0' />
 					</PipetteHead>
 				</Task>
